@@ -11,5 +11,7 @@ int main(){
     cout<<*p<<endl;
     delete p;
     cout<<*p<<endl;
+    // only value at the dynamically alloted pointer is deleted
+    // pointer is still there
     return 0;
 }
