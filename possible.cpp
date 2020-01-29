@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+    cout<<"lets get started with dynamic programming"<<endl;
     int **q=new int*;
     int *p=new int;
     cin>>*p;
